@@ -33,5 +33,5 @@ FAISS
 Hugging Face Transformers (DistilBERT QA)
 PyPDF2
 
-output:
+
 <img width="940" height="640" alt="image" src="https://github.com/user-attachments/assets/933335f1-2e0c-4783-9ed8-e8e23479f78c" />
